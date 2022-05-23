@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Saigujral458
-- 👀 I’m interested in android development and blockchain 
-
-- 🌱 I’m currently learning new ..
+- 👀 I’m interested in android development and blockchain
 
 <!---
 Saigujral458/Saigujral458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
